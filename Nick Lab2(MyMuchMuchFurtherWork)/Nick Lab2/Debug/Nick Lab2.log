@@ -1,0 +1,165 @@
+﻿  NickLab2.cpp
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(65,1): error C3806: ',': unexpected token, expected either a '{' or a member-initializer
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(65,55): error C2512: 'Weapon': no appropriate default constructor available
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(23,8): message : see declaration of 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(87,50): error C2661: 'Character::Character': no overloaded function takes 7 arguments
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(104,45): error C2661: 'Character::Character': no overloaded function takes 7 arguments
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(121,52): error C2661: 'Character::Character': no overloaded function takes 7 arguments
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(142,8): error C2374: 'sword': redefinition; multiple initialization
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32): message : see declaration of 'sword'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(187,8): error C2374: 'armour': redefinition; multiple initialization
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34): message : see declaration of 'armour'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(202,8): error C2374: 'potion': redefinition; multiple initialization
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35): message : see declaration of 'potion'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(217,8): error C2374: 'shield': redefinition; multiple initialization
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36): message : see declaration of 'shield'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(233,8): error C2374: 'none': redefinition; multiple initialization
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37): message : see declaration of 'none'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(440,11): error C2373: 'player': redefinition; different type modifiers
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(126): message : see declaration of 'player'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Character.h(7,17): error C2011: 'Character': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(40): message : see declaration of 'Character'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Character.h(39,17): error C2011: 'Swordsman': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(72): message : see declaration of 'Swordsman'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Character.h(56,13): error C2011: 'Ninja': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(89): message : see declaration of 'Ninja'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Character.h(73,19): error C2011: 'Spellcaster': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(106): message : see declaration of 'Spellcaster'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(24,1): error C2011: 'Weapon': 'struct' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(23): message : see declaration of 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32,8): error C2079: 'sword' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32,8): error C2371: 'sword': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32): message : see declaration of 'sword'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32,45): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32,13): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(33,8): error C2079: 'wand' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(33,8): error C2371: 'wand': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(33): message : see declaration of 'wand'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(33,47): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(33,12): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34,8): error C2079: 'armour' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34,8): error C2371: 'armour': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34): message : see declaration of 'armour'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34,52): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34,14): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35,8): error C2079: 'potion' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35,8): error C2371: 'potion': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35): message : see declaration of 'potion'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35,65): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35,14): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36,8): error C2079: 'shield' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36,8): error C2371: 'shield': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36): message : see declaration of 'shield'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36,54): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36,14): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37,8): error C2079: 'none' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37,8): error C2371: 'none': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37): message : see declaration of 'none'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37,58): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37,12): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(87,11): error C2079: 'Swordsman' uses undefined class 'Character'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(87,11): error C2371: 'Swordsman': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(87): message : see declaration of 'Swordsman'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(87,50): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(87,20): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(104,11): error C2079: 'Ninja' uses undefined class 'Character'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(104,11): error C2371: 'Ninja': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(104): message : see declaration of 'Ninja'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(104,45): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(104,16): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(121,11): error C2079: 'Spellcaster' uses undefined class 'Character'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(121,11): error C2371: 'Spellcaster': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(121): message : see declaration of 'Spellcaster'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(121,52): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(121,22): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(126,11): error C2079: 'player' uses undefined class 'Character'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(126,11): error C2371: 'player': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(126): message : see declaration of 'player'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(127,11): error C2079: 'myChara' uses undefined class 'Character'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(127,11): error C2371: 'myChara': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(127): message : see declaration of 'myChara'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(129,13): error C2011: 'sword': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(129): message : see declaration of 'sword'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(142,8): error C2079: 'sword' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(142,8): error C2371: 'sword': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32): message : see declaration of 'sword'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(142,45): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(142,13): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(144,15): error C2011: 'katanas': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(144): message : see declaration of 'katanas'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(157,8): error C2079: 'katanas' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(157,8): error C2371: 'katanas': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(157): message : see declaration of 'katanas'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(157,49): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(157,15): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(159,13): error C2011: 'staff': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(159): message : see declaration of 'staff'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(172,8): error C2079: 'staff' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(172,8): error C2371: 'staff': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(172): message : see declaration of 'staff'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(172,49): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(172,13): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(174,14): error C2011: 'armour': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(174): message : see declaration of 'armour'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(187,8): error C2079: 'armour' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(187,8): error C2371: 'armour': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(34): message : see declaration of 'armour'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(187,52): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(187,14): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(189,14): error C2011: 'potion': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(189): message : see declaration of 'potion'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(202,8): error C2079: 'potion' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(202,8): error C2371: 'potion': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(35): message : see declaration of 'potion'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(202,65): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(202,14): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(204,14): error C2011: 'shield': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(204): message : see declaration of 'shield'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(217,8): error C2079: 'shield' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(217,8): error C2371: 'shield': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(36): message : see declaration of 'shield'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(217,54): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(217,14): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(220,12): error C2011: 'none': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(220): message : see declaration of 'none'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(233,8): error C2079: 'none' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(233,8): error C2371: 'none': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(37): message : see declaration of 'none'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(233,58): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(233,12): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(236,1): error C2011: 'VideoGame': 'class' type redefinition
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(235): message : see declaration of 'VideoGame'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(382,5): error C2084: function 'int main(void)' already has a body
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(382): message : see previous definition of 'main'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(384,12): error C2079: 'Games' uses undefined class 'VideoGame'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(392,10): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(393,40): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(398,10): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(399,18): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(399,65): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(404,10): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(405,18): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(405,66): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(410,10): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(411,18): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(411,69): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(414,31): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(415,31): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(416,32): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(417,35): error C2109: subscript requires array or pointer type
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(440,11): error C2373: 'player': redefinition; different type modifiers
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(126): message : see declaration of 'player'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(9,1): warning C4099: 'Weapon': type name first seen using 'struct' now seen using 'class'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(8): message : see declaration of 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(17,8): error C2079: 'sword' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(17,8): error C2371: 'sword': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(32): message : see declaration of 'sword'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(17,45): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(17,13): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(18,8): error C2079: 'katanas' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(18,8): error C2371: 'katanas': redefinition; different basic types
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\NickLab2.cpp(157): message : see declaration of 'katanas'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(18,49): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(18,15): message : The initializer contains too many elements
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(19,8): error C2079: 'staff' uses undefined struct 'Weapon'
+C:\Users\owner\Downloads\Nick Lab2(MyFurtherWork)\Nick Lab2(MyMuchFurtherWork)\Nick Lab2\Weapon.h(19,48): fatal error C1003: error count exceeds 100; stopping compilation
